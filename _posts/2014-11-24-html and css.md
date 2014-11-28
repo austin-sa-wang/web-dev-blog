@@ -3,25 +3,28 @@ layout: post
 title: HTML and CCSS
 ---
 
-(JSFIDDLE)[http://jsfiddle.net/] is a tool for quick prototyping of HTML/CSS and Javascript
-(Mozilla Developer Network)[https://developer.mozilla.org] is a very good source of information.
+[JSFIDDLE](http://jsfiddle.net/) is a tool for quick prototyping of HTML/CSS and Javascript
+[Mozilla Developer Network](https://developer.mozilla.org) is a very good source of information.
 
 There are two vital parts to learning a language:
 
-1. Absorbing data
-2. Using that data and turn it into knowledge.
+1. Absorbing information
+2. Practicing the information (and turn it into knowledge)
 
-This guide focuses on _1. Absorbing data_. Actually using the material is still needed. Hence, the goal here is to know the building blocks and tools of HTML and CSS. In other words, focus less on the detailed usage of each element but more on the __purpose and functionality__, ultimately creating a reference in your brain. This way, you will have the intuition and the basic knowledge of what to use and be able to learn the details quickly as you are using the languages.
+This guide focuses on the _Absorbing information_ part. Actually using the material is still needed. Hence, the goal here is to know the building blocks and tools of HTML and CSS. In other words, focus less on the detailed usage of each element but more on the __purpose and functionality__, ultimately creating a reference in your brain. This way, you will have the intuition and the basic knowledge of what to use and be able to learn the details quickly as you are using the languages.
 
 It is also extremely useful to examine the source of web sites to see how things are implemented.
 
-HTML
 ------
 
+HTML
+
 Before anything else, learn the background and structure of HTML:
+
 [Introduction to HTML And The Basic Structure of The Language](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction)
 
 The way I learn utilizes two resources:
+
 * [codecademy's HTML/CSS Tutorial](http://www.codecademy.com/tracks/web)
 * [MDN's HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
@@ -34,8 +37,9 @@ The way I learn utilizes two resources:
 
 Again, at this point, the goal is to know what to use and where to get help, instead of how to use.
 
-CSS
 ------
+
+CSS
 
 Using Cascading Style Sheets (CSS) to achieve the desired result requires not only broad but also extensive knowledge on the technology. Many many things such as fonts and layouts can already be topic of their own. Going through this serves as base knowledge. To really be able to use CSS, one will need to research further into topics and issues at hand. Checking out the source of web sites as examples is particularly important to learning CSS.
 
