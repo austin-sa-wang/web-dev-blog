@@ -23,7 +23,7 @@ Two useful links:
 
 ##HTML
 
-Before anything else, learn the [background and structure of HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction):
+Before anything else, learn the [background and structure of HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction).
 
 The way I learn utilizes two resources:
 
