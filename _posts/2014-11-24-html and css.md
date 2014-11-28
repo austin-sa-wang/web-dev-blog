@@ -3,9 +3,6 @@ layout: post
 title: HTML and CCSS
 ---
 
-[JSFIDDLE](http://jsfiddle.net/) is a tool for quick prototyping of HTML/CSS and Javascript
-[Mozilla Developer Network](https://developer.mozilla.org) is a very good source of information.
-
 There are two vital parts to learning a language:
 
 1. Absorbing information
@@ -17,7 +14,14 @@ It is also extremely useful to examine the source of web sites to see how things
 
 ------
 
-HTML
+Two useful links:
+
+* [Mozilla Developer Network](https://developer.mozilla.org): A well composed source of information.
+* [JSFIDDLE](http://jsfiddle.net/): A tool for quick prototyping of HTML/CSS and Javascript
+
+------
+
+##HTML
 
 Before anything else, learn the background and structure of HTML:
 
@@ -39,7 +43,7 @@ Again, at this point, the goal is to know what to use and where to get help, ins
 
 ------
 
-CSS
+##CSS
 
 Using Cascading Style Sheets (CSS) to achieve the desired result requires not only broad but also extensive knowledge on the technology. Many many things such as fonts and layouts can already be topic of their own. Going through this serves as base knowledge. To really be able to use CSS, one will need to research further into topics and issues at hand. Checking out the source of web sites as examples is particularly important to learning CSS.
 
