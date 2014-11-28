@@ -7,7 +7,7 @@ title:            Austin Wang
 tagline:          Path to Web Application Development
 url:              
 paginate:         1
-baseurl:          http://austin-sa-wang.github.io/
+baseurl:          http://austin-sa-wang.github.io/web-dev-blog/
 author:
   name:           Mark Otto
   url:            https://twitter.com/mdo
