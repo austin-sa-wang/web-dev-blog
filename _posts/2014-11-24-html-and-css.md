@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HTML and CCSS
+title: HTML and CSS
 ---
 
 There are two vital parts to learning a language:
