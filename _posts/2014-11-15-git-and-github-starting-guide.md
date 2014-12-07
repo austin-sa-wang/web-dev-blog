@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Version Control: git (and Github)
+title: "Version Control: git (and Github)"
 ---
 
 Version control is almost a must for any development. It allows one to make incremental progress without the worry of messing up whatever has been development. The concept is intuitive. You make a copy of the current work when you feel you've reached a milestone, then you continue working. This copy can be used as a reference, or a backup to revert to when things go horribly wrong. Without any training to version control, people already do this by creating directories to store different versions of their work. Doing version control manually like this can be messy, tedious, and prone to mistakes. This is where version control tools come in. There are many established and widely used version control tools. The one I'll be using, is [git](http://git-scm.com/).
